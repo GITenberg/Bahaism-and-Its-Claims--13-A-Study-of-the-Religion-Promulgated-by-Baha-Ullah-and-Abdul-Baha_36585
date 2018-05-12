@@ -1,0 +1,29 @@
+_repo: Bahaism-and-Its-Claims--13-A-Study-of-the-Religion-Promulgated-by-Baha-Ullah-and-Abdul-Baha_36585
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Samuel Graham
+    alias: Wilson, S. G. (Samuel Graham)
+    birthdate: 1858
+    deathdate: 1916
+    gutenberg_agent_id: '38366'
+    url: http://www.gutenberg.org/2009/agents/38366
+description: ''
+gutenberg_issued: '2011-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36585'
+  lccn: '15024507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bahai Faith -- Controversial literature'
+- !lcc 'BP'
+title: "Bahaism and Its Claims\r\nA Study of the Religion Promulgated by Baha Ullah\
+  \ and Abdul Baha"
+url: http://www.gutenberg.org/ebooks/36585

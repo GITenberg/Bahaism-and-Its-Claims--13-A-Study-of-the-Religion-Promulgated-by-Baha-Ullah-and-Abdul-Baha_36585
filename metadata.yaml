@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38366'
     url: http://www.gutenberg.org/2009/agents/38366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36585#Bahaism-and-Its-Claims--13-A-Study-of-the-Religion-Promulgated-by-Baha-Ullah-and-Abdul-Baha
 gutenberg_issued: '2011-07-02'
 gutenberg_type: Text
 identifiers:
